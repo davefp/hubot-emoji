@@ -10,6 +10,14 @@
     "emoji",
     "hubot"
   ],
+  "repository": {
+      "type": "git",
+      "url": "git@github.com:davefp/hubot-emoji.git"
+    },
+
+    "bugs": {
+      "url": "https://github.com/davefp/hubot-emoji/issues"
+    },
   "author": "David Underwood <davefp@gmail.com> (http://theflyingdeveloper.com)",
   "license": "MIT"
 }

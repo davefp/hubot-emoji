@@ -1,6 +1,6 @@
 {
   "name": "hubot-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Emoji search for hubot",
   "main": "index.coffee",
   "scripts": {
@@ -11,13 +11,12 @@
     "hubot"
   ],
   "repository": {
-      "type": "git",
-      "url": "git@github.com:davefp/hubot-emoji.git"
-    },
-
-    "bugs": {
-      "url": "https://github.com/davefp/hubot-emoji/issues"
-    },
+    "type": "git",
+    "url": "git@github.com:davefp/hubot-emoji.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davefp/hubot-emoji/issues"
+  },
   "author": "David Underwood <davefp@gmail.com> (http://theflyingdeveloper.com)",
   "license": "MIT"
 }

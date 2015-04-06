@@ -1,0 +1,15 @@
+{
+  "name": "hubot-emoji",
+  "version": "1.0.0",
+  "description": "Emoji search for hubot",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji",
+    "hubot"
+  ],
+  "author": "David Underwood <davefp@gmail.com> (http://theflyingdeveloper.com)",
+  "license": "MIT"
+}

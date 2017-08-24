@@ -12,7 +12,7 @@ module.exports = (robot) ->
   robot.respond /emoji (\w+)$/i, (msg) ->
     query = msg.match[1]
     if query
-      msg.http("https://raw.githubusercontent.com/muan/emojilib/master/emojis.json")
+      msg.http("https://raw.githubusercontent.com/muan/emoji/6bfd402661d800840a8939e24e1932df6d815710/emojis.json")
         .get() (err, res, body) ->
 
           robot.logger.debug "got emoji index"
